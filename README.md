@@ -1,19 +1,22 @@
 # Hey, I'm Kevin 🤠
 
-### Software Engineer| Boston, MA
+### Software Engineer | Boston, MA
 
-I'm a software engineer  with a background in technology, business, and client facing problem solutions. My experience helped me develop a strong foundation in troubleshooting, collaboration, and translating complex technical concepts into solutions people can understand.
+I'm a software engineer with a background in technology, business, and solving problems for people.
 
-Now, I'm building on that experience where I'm developing full-stack applications and strengthening my skills in JavaScript, Node.js, Express, and MongoDB.
+Before transitioning into software engineering, I worked in roles where troubleshooting, communication, and understanding people's needs were part of my everyday work.
 
-I'm passionate about creating technology that solves real problems, connects people, and makes everyday experiences easier.
+Now, I'm bringing that experience into development by building full-stack applications and strengthening my skills in JavaScript, Node.js, Express, and MongoDB.
+
+What interests me most about software engineering is the opportunity to build technology that solves real problems and makes people's lives easier.
 
 ### 🚀 What I'm Working On
-- 🔭 **Currently building:** A Cape Verdean Creole language-learning and translation application that helps users save and revisit translations.
-- 🌱 **Currently learning:** Full-stack JavaScript development, data structures, algorithms, REST APIs, and database management.
-- 👯 **Looking to collaborate on:** Projects involving language accessibility, education, and practical problem-solving.
-- 💬 **Ask me about:** Technology, troubleshooting, Apple , or my transition from business into software engineering.
-- ⚡ **Fun fact:** I speak English, Spanish, and Portuguese, and I'm passionate about learning languages and connecting across cultures.
+
+- 🔭 **Currently building:** *Language Is More Than Words*, a Cape Verdean Creole translation and language-learning application.
+- 🌱 **Currently learning:** Full-stack JavaScript, REST APIs, databases, data structures, and algorithms.
+- 👯 **Interested in collaborating on:** Language accessibility, education, and projects that solve everyday problems.
+- 💬 **Ask me about:** Technology, troubleshooting, customer experience, or my transition into software engineering.
+- 🌎 **Fun fact:** I speak English, Spanish, and Portuguese, and I enjoy learning new languages.
 
 ### 🛠️ Tech Stack
 
@@ -34,7 +37,35 @@ I'm passionate about creating technology that solves real problems, connects peo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  
+
+### 💻 Featured Projects
+
+**Language Is More Than Words**
+
+A Cape Verdean Creole translation and language-learning application I'm developing to help make language learning more accessible. The project is currently in its early stages.
+
+[View Project](https://github.com/KevSal227/demodayCV)
+
+**Full-Stack Employee Timesheet**
+
+An employee timesheet application featuring user authentication and database-backed time entries.
+
+[View Project](https://github.com/KevSal227/fullstack1)
+
+**Food Message Board**
+
+A full-stack application where users can create food-related posts, interact with them, and manage entries.
+
+[View Project](https://github.com/KevSal227/fullstack2food)
+
+### 🤝 Let's Connect
+
+I'm always open to connecting with other developers, learning from new experiences, and exploring opportunities in software engineering.
+
+- 🌐 [Portfolio](https://kevinsalazar.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevsal/)
+- 💻 [GitHub](https://github.com/KevSal227)
 
 ### 🎯 My Goal
-To combine my technical skills, business experience, and passion for helping people to build meaningful software and grow as a software engineer.
+
+To combine my technical skills, business experience, and passion for helping people to build meaningful software and continue growing as a software engineer.
