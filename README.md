@@ -2,7 +2,7 @@
 
 ### Software Engineer| Boston, MA
 
-I'm a software engineer  with a background in technology, business, and customer facing problem-solving. My experienceS helped me develop a strong foundation in troubleshooting, collaboration, and translating complex technical concepts into solutions people can understand.
+I'm a software engineer  with a background in technology, business, and client facing problem solutions. My experience helped me develop a strong foundation in troubleshooting, collaboration, and translating complex technical concepts into solutions people can understand.
 
 Now, I'm building on that experience where I'm developing full-stack applications and strengthening my skills in JavaScript, Node.js, Express, and MongoDB.
 
