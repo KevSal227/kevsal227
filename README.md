@@ -12,7 +12,7 @@ What interests me most about software engineering is the opportunity to build te
 
 ### 🚀 What I'm Working On
 
-- 🔭 **Currently building:** *Language Is More Than Words*, a Cape Verdean Creole translation and language-learning application.
+- 🔭 **Currently building:** *Papia Ku Me*, a Cape Verdean Creole translation and language-learning application.
 - 🌱 **Currently learning:** Full-stack JavaScript, REST APIs, databases, data structures, and algorithms.
 - 👯 **Interested in collaborating on:** Language accessibility, education, and projects that solve everyday problems.
 - 💬 **Ask me about:** Technology, troubleshooting, customer experience, or my transition into software engineering.
