@@ -1,4 +1,4 @@
-# Hey, I'm Kevin 🤓
+# Hey, I'm Kevin 🤠
 
 ### Software Engineer| Boston, MA
 
